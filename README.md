@@ -14,5 +14,6 @@ Este projeto tem como objetivo criar uma página web informativa sobre o jogo Fo
 - **HTML**: Utilizado para a estruturação do conteúdo da página.
 - **CSS**: Utilizado para estilizar e tornar a página visualmente atraente.
 
+## OBSERVAÇÃO - OCORREU UM PEQUENO ERRO NA IMAGEM - PROJETO EM CONSTRUÇÃO
 
 https://roseanedasilva1212.github.io/Projeto_JogoFortnite/
